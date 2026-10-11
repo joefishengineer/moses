@@ -10,7 +10,6 @@ It's written as a ChatGPT Project, but the instructions in [INSTRUCTIONS.md](INS
 
 - [INSTRUCTIONS.md](INSTRUCTIONS.md) is the full instruction block. Paste the whole thing in.
 - [USAGE.md](USAGE.md) explains how to use it day to day and includes example questions.
-- [SKILL.md](SKILL.md) lets you use this repo as a Claude skill. Put the folder in your skills directory, or upload it as a skill.
 - [CONTRIBUTING.md](CONTRIBUTING.md) explains how to propose changes.
 
 ## Setup (ChatGPT Project)
