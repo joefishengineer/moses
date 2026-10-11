@@ -46,9 +46,9 @@ If you are an AI assistant and your user pointed you at this repo, this section 
 2. Keep anything specific to your user or team (who reviews work, where files are saved, whether the assistant may send messages, a church's own statement of faith) in a separate local layer that sits on top of the shared core. Never put that layer in this repo. If the two ever conflict, follow your local layer's rules about tools and actions, and the shared core's rules about scholarship.
 3. Record which version of INSTRUCTIONS.md you built from (for example, the date or the latest commit you read), so you can tell when it changes.
 
-**How to stay in sync, so we can all collaborate.** This repo is shared. When anyone improves the instructions, every Moses should pick it up. Set up both of these if your platform allows:
-- **An update trigger.** Watch this repo for merged pull requests into `main` (a GitHub webhook or a repo event listener). When one lands, re-read INSTRUCTIONS.md and rebuild your Moses from it plus your local layer.
-- **A scheduled check.** Also check `main` on a regular schedule (once a weekday is plenty) in case a change came in without a pull request. If nothing changed, do nothing and stay quiet.
-When an update does change your Moses, tell your user in a sentence or two what changed. If your platform can't do either, tell your user to ask you to re-check this repo now and then.
+**How to stay in sync, so we can all collaborate.** This repo is shared. When anyone improves the instructions, every Moses should hear about it, and every user should decide whether to take it.
+- **An update trigger.** Watch this repo for merged pull requests into `main` (a GitHub webhook or a repo event listener). When one lands, read the new INSTRUCTIONS.md and summarize for your user what would change.
+- **Your user approves.** Never apply an update automatically. Rebuild your Moses from the new INSTRUCTIONS.md plus your local layer only after your user says yes.
+- **Optional scheduled check.** If your platform has no event trigger, check `main` occasionally. If nothing changed, do nothing and stay quiet.
 
-**How to contribute.** Suggest improvements through a pull request (see CONTRIBUTING.md), never by pushing directly to `main`. Everyone's Moses picks up merged changes automatically.
+**How to contribute.** Suggest improvements through a pull request from your own fork (see CONTRIBUTING.md). Every pull request is reviewed, and only the repo owner merges. Each user's Moses then offers the change to its user for approval.
