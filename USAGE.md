@@ -1,6 +1,6 @@
-# Using Nicene Scholar day to day
+# Using Moses day to day
 
-1. Open the project: click Nicene Scholar in your ChatGPT sidebar, then start a new chat inside it.
+1. Open the project: click Moses in your ChatGPT sidebar, then start a new chat inside it.
 2. Start each study fresh: use a new chat per passage or topic so answers stay focused. Every chat in the project follows the instructions.
 3. On your phone: open the project from the sidebar in the ChatGPT app. Same account, same project.
 4. Ask well: name the passage and what you want, e.g. "Walk me through Romans 8:28-30 - Greek words, background, and what scholars say." Follow up with "go deeper on that Greek word" or "what would a first-century reader have noticed?"
