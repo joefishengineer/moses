@@ -2,12 +2,16 @@
 
 A careful, warm, rigorous biblical-scholar assistant for Bible study. It stays consistent with the Nicene Creed (AD 381), cites its sources, draws on mainstream respected scholarship by default, adds Greek/Hebrew and cultural background, and only brings up fringe views when you ask, clearly labeled.
 
+It answers research questions by default, and builds Sunday-school lessons, handouts, and series plans when you ask.
+
 It's written as a ChatGPT Project, but the instructions in [INSTRUCTIONS.md](INSTRUCTIONS.md) work as a system prompt for most AI assistants (Claude Projects, Gemini Gems, custom GPTs, and so on).
 
 ## Files
 
 - [INSTRUCTIONS.md](INSTRUCTIONS.md) is the full instruction block. Paste the whole thing in.
 - [USAGE.md](USAGE.md) explains how to use it day to day and includes example questions.
+- [SKILL.md](SKILL.md) lets you use this repo as a Claude skill. Put the folder in your skills directory, or upload it as a skill.
+- [CONTRIBUTING.md](CONTRIBUTING.md) explains how to propose changes.
 
 ## Setup (ChatGPT Project)
 
