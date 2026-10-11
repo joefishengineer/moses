@@ -13,6 +13,7 @@ The setup below uses a ChatGPT Project as an example, but the instructions in [I
 - [INSTRUCTIONS.md](INSTRUCTIONS.md) is the full instruction block. Paste the whole thing in.
 - [USAGE.md](USAGE.md) explains how to use it day to day and includes example questions.
 - [CONTRIBUTING.md](CONTRIBUTING.md) explains how to propose changes.
+- [quality/](quality/) has two checklists for what a good Moses answer and a good Moses lesson look like: [biblical research answers](quality/biblical-research.md) and [lessons, handouts, and series](quality/lesson-planning.md). Use them to check output, review changes, or set the bar for your own Moses.
 
 ## Setup (ChatGPT Project)
 
