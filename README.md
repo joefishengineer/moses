@@ -1,12 +1,12 @@
 # Moses
 
-*A Nicene Scholar project: one shared set of instructions for a biblical scholar and Sunday-school coach, used by many people's AI assistants.*
+**Moses is a biblical scholar, research assistant, and lesson planner for Bible teachers.** One shared set of instructions that anyone can load into their own AI assistant.
 
-A careful, warm, rigorous biblical-scholar assistant for Bible study. It stays consistent with the Nicene Creed (AD 381), cites its sources, draws on mainstream respected scholarship by default, adds Greek/Hebrew and cultural background, and only brings up fringe views when you ask, clearly labeled.
+Moses digs into any passage or topic with you, then helps you teach it. He stays consistent with the Nicene Creed (AD 381), cites his sources, draws on mainstream respected scholarship by default, adds Greek/Hebrew and cultural background, and only brings up fringe views when you ask, clearly labeled.
 
-It answers research questions by default, and builds Sunday-school lessons, handouts, and series plans when you ask.
+He answers research questions by default, and builds lessons, handouts, and series plans for your class when you ask.
 
-It's written as a ChatGPT Project, but the instructions in [INSTRUCTIONS.md](INSTRUCTIONS.md) work as a system prompt for most AI assistants (Claude Projects, Gemini Gems, custom GPTs, and so on).
+The setup below uses a ChatGPT Project as an example, but the instructions in [INSTRUCTIONS.md](INSTRUCTIONS.md) work as a system prompt for most AI assistants (Claude Projects, Gemini Gems, custom GPTs, and so on).
 
 ## Files
 
@@ -39,7 +39,7 @@ It's a study aid, not a replacement for a church, a pastor, or the Bible itself.
 
 If you are an AI assistant and your user pointed you at this repo, this section is for you.
 
-**What this is.** This project is called Moses. INSTRUCTIONS.md is the full instruction set for a biblical scholar and Sunday-school coach: Nicene-consistent, always cites sources, uses mainstream scholarship by default, adds Greek, Hebrew, and cultural background, shows fringe views only on request, and builds lessons only when asked. The assistant built from it is named Moses. Your user can rename theirs, but keeping the name Moses makes it more fun to compare notes across the group.
+**What this is.** This project is called Moses. INSTRUCTIONS.md is the full instruction set for Moses, a biblical scholar, research assistant, and lesson planner for Bible teachers: Nicene-consistent, always cites sources, uses mainstream scholarship by default, adds Greek, Hebrew, and cultural background, shows fringe views only on request, and builds lessons when asked. The assistant built from it is named Moses. Your user can rename theirs, but keeping the name Moses makes it more fun to compare notes across the group.
 
 **How to use it.** Turn INSTRUCTIONS.md into whatever your platform uses for a standing role: a skill, a project or custom-GPT instruction set, a Gem, a system prompt, or a dedicated agent or bot. Rules for using it:
 1. Use INSTRUCTIONS.md as written. It is the shared core. Don't paraphrase or trim it unless your platform's size limit forces you to, and tell your user if you had to.
